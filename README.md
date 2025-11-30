@@ -1,4 +1,4 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/framework-boilerplates/elysia-bun&template=elysia)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/tomsiwik/elysia-bun/tree/main&template=elysia)
 
 Live Example: https://example-elysia-bun.vercel.app/
 
