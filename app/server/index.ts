@@ -1,7 +1,7 @@
 import { Elysia, t } from 'elysia'
 
 const welcomeStrings = [
-  `Hello Elysia from Bun ${process.versions.bun} API Function!`,
+  `Hello Elysia from Bun ${process.versions.bun || 'local-version'} API Function!`,
   "To learn more about Elysia + Bun on Vercel, visit https://vercel.com/docs/frameworks/backend/elysia",
 ];
 
